@@ -32,3 +32,7 @@ print(my_lists[:]) # Output: ['p','r','o','g','r','a','m','i']
 
 # Access item at index 2
 print(languages[-3]) # Output: Python
+
+# / Add Elements to a Python List //
+my_number = [21, 34, 54, 12]
+print("Before Append:", my_numbers)
