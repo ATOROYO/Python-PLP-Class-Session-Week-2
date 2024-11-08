@@ -14,3 +14,6 @@ print(my_list2)
 languages = ["Python", "Swift", "C++"]
 print(languages[0])
 print(languages[2])
+
+# Slicing of a Python List
+print(languages[-1])
