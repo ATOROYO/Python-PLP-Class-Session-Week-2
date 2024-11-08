@@ -59,3 +59,8 @@ print("List after append:", prime_numbers)
 # List1: [2,3,5]
 # List2: [4,6,8]
 # List after append: [2,3,5,4,6,8]
+
+# Change List Items //
+# changing the third item to C
+languages[2] = 'C'
+print(languages) # ['Python', 'Swift', 'C']
