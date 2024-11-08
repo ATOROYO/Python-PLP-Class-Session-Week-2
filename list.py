@@ -68,3 +68,7 @@ print(languages) # ['Python', 'Swift', 'C']
 
 # / Remove an Item From a List //
 my_languages = ['Python', 'Swift', 'C++', 'C', 'Java', 'Rust', 'R']
+
+# Deleting the second item
+del my_languages[1]
+print(my_languages) # ['Python', 'C++', 'C', 'Java', 'Rust', 'R']
