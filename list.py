@@ -54,3 +54,8 @@ print("List2:", even_numbers)
 # join two lists
 prime_numbers.extend(even_numbers)
 print("List after append:", prime_numbers)
+
+# Output
+# List1: [2,3,5]
+# List2: [4,6,8]
+# List after append: [2,3,5,4,6,8]
