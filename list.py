@@ -29,3 +29,6 @@ print(my_lists[5:]) # Output: ['a', 'm', 'i', 'z']
 
 # items begining to end
 print(my_lists[:]) # Output: ['p','r','o','g','r','a','m','i']
+
+# Access item at index 2
+print(languages[-3]) # Output: Python
