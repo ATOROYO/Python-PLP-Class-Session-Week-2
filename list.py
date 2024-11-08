@@ -72,3 +72,7 @@ my_languages = ['Python', 'Swift', 'C++', 'C', 'Java', 'Rust', 'R']
 # Deleting the second item
 del my_languages[1]
 print(my_languages) # ['Python', 'C++', 'C', 'Java', 'Rust', 'R']
+
+# Deleting the last item
+del my_languages[-1]
+print(prime_numbers) # ['Python', 'C++', 'C', 'Java', 'Rust']
