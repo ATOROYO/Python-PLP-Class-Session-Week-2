@@ -20,3 +20,6 @@ print(languages[-1])
 
 # Listi slicing in python
 my_lists = ['p','r','o','g','r','a','m','i']
+
+# items from index 2 to index 4
+print(my_lists[2:5]) #Output: ['o', 'g', 'r']
