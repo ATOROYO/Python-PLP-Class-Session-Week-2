@@ -17,3 +17,6 @@ print(languages[2])
 
 # Slicing of a Python List
 print(languages[-1])
+
+# Listi slicing in python
+my_lists = ['p','r','o','g','r','a','m','i']
