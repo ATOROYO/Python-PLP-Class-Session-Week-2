@@ -36,3 +36,7 @@ print(languages[-3]) # Output: Python
 # / Add Elements to a Python List //
 my_numbers = [21, 34, 54, 12]
 print("Before Append:", my_numbers)
+
+# Using append method
+my_numbers.append(32)
+print("Afte Append:", my_numbers)
