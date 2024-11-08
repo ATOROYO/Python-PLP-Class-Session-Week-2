@@ -64,3 +64,7 @@ print("List after append:", prime_numbers)
 # changing the third item to C
 languages[2] = 'C'
 print(languages) # ['Python', 'Swift', 'C']
+
+
+# / Remove an Item From a List //
+my_languages = ['Python', 'Swift', 'C++', 'C', 'Java', 'Rust', 'R']
