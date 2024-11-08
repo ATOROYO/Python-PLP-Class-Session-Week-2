@@ -40,3 +40,7 @@ print("Before Append:", my_numbers)
 # Using append method
 my_numbers.append(32)
 print("Afte Append:", my_numbers)
+
+# Output
+# Before Append: [21,34,54,12]
+# After Append: [21,34,54,12,32]
