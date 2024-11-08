@@ -23,3 +23,6 @@ my_lists = ['p','r','o','g','r','a','m','i']
 
 # items from index 2 to index 4
 print(my_lists[2:5]) #Output: ['o', 'g', 'r']
+
+# items from index 5 to end
+print(my_lists[5:]) # Output: ['a', 'm', 'i', 'z']
