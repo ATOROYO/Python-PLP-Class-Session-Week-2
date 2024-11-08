@@ -13,3 +13,4 @@ print(my_list2)
 # Access Python List Elements
 languages = ["Python", "Swift", "C++"]
 print(languages[0])
+print(languages[2])
