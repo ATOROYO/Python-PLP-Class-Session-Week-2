@@ -34,5 +34,5 @@ print(my_lists[:]) # Output: ['p','r','o','g','r','a','m','i']
 print(languages[-3]) # Output: Python
 
 # / Add Elements to a Python List //
-my_number = [21, 34, 54, 12]
+my_numbers = [21, 34, 54, 12]
 print("Before Append:", my_numbers)
