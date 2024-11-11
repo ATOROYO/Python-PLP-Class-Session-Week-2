@@ -17,3 +17,4 @@ print(letters[5]) # prints a
 
 # 2. Negative indexing
 print(letters[-1]) # prints z
+print(letters[-3]) # prints m
