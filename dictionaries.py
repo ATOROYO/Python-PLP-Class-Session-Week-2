@@ -21,4 +21,6 @@ print("Updated Dictionary: ", student_id)
 squares = {1: 1, 3: 9, 5: 25, 7:49, 9:81}
 # Output: True
 print(1 in squares) # prints True
+print(2 not in squares) # prints True
+
 
