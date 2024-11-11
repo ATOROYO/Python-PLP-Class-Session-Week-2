@@ -17,3 +17,8 @@ print("Initial Dictionary: ", student_id)
 del student_id[111]
 print("Updated Dictionary: ", student_id)
 
+# Dictionary Membership test
+squares = {1: 1, 3: 9, 5: 25, 7:49, 9:81}
+# Output: True
+print(1 in squares) # prints True
+
