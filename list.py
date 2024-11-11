@@ -85,3 +85,12 @@ print(my_languages)
 # Remove python fromthe list
 languages.remove("Python")
 print(languages)
+
+# Iterating through a list
+for language in languages:
+    print(language)
+    
+# Output
+# Python
+# Swift
+# C++
