@@ -95,6 +95,7 @@ for language in languages:
 # Swift
 # C++
 
+# Python List Comprehsion
 numbers_compress = [number*number for number in range(1,6)]
 print(numbers_compress)
 # Output: [1,4,9,16,25]
