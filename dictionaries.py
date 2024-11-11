@@ -8,3 +8,5 @@ print(numbers)
 
 # Add Elements to python dictionaries
 print("Initial Dictionary: ", capital_city)
+
+capital_city["South Sudan"] = "Juba"
