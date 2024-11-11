@@ -80,3 +80,8 @@ print(my_languages) # ['Python', 'C++', 'C', 'Java', 'Rust']
 # Delete first two items
 del my_languages[0:2] # ['C', 'Java', 'Rust']
 print(my_languages)
+
+# 2. Using remove()
+# Remove python fromthe list
+languages.remove("Python")
+print(languages)
