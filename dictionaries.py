@@ -14,6 +14,5 @@ print("Updated Dictionary: ", capital_city)
 # Change value of Dictionary
 student_id = {111: "Eric", 112: "Kyle", 113: "Peni"}
 print("Initial Dictionary: ", student_id)
-
 del student_id[111]
 
