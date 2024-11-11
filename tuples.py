@@ -14,3 +14,6 @@ print(type(var3)) # <class 'tuple'>
 letters = ("p","r","o","g","r","a","m","i","z")
 print(letters[0]) # prints p
 print(letters[5]) # prints a
+
+# 2. Negative indexing
+print(letters[-1]) # prints z
