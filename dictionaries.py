@@ -24,3 +24,7 @@ print(1 in squares) # prints True
 print(2 not in squares) # prints True
 print(49 in squares) # prints False
 
+# Iterating through a Dictionary
+for i in  squares:
+    print(squares[i])
+
