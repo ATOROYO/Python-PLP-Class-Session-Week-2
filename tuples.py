@@ -9,3 +9,7 @@ print(type(var2)) # <class 'tuple'>
 # Parenthesis is optional
 var3 = "hello"
 print(type(var3)) # <class 'tuple'>
+
+# 1. Indexing
+letters = ("p","r","o","g","r","a","m","i","z")
+print(letters[0]) # prints p
