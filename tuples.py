@@ -13,3 +13,4 @@ print(type(var3)) # <class 'tuple'>
 # 1. Indexing
 letters = ("p","r","o","g","r","a","m","i","z")
 print(letters[0]) # prints p
+print(letters[5]) # prints a
