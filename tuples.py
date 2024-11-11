@@ -22,3 +22,4 @@ print(letters[-3]) # prints m
 # Python Tuple Method
 my_tuple = ("a","p","p","l","e")
 print(my_tuple['p']) # Prints 2
+print(my_tuple["l"]) # Prints 3
