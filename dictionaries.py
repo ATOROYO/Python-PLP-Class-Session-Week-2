@@ -11,3 +11,6 @@ print("Initial Dictionary: ", capital_city)
 capital_city["South Sudan"] = "Juba"
 print("Updated Dictionary: ", capital_city)
 
+# Change value of Dictionary
+student_id = {111: "Eric", 112: "Kyle", 113: "Peni"}
+
