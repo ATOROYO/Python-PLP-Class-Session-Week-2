@@ -25,3 +25,8 @@ numbers = {21, 34, 54, 12}
 print("Initial Set: ", numbers)
 # using add() method
 print("Update set: ", numbers)
+
+# Update Python Set
+companies = {'Lacoste', 'Ralph Lauren'}
+tech_companies = ['apple', 'google', 'apple']
+companies.update(tech_companies) # Output: {'google', 'apple', 'Lacoste', 'Ralph Lauren'}
