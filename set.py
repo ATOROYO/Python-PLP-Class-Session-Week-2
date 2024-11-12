@@ -67,3 +67,9 @@ print("Union usning union(): ", A.union(B))
 print("Intersection using &: ", A & B)
 # perform intersection operation using intersection()
 print("Intersection using intersection(): " A.intersection(B))
+
+# difference between Two Sets
+# perform defference operation using -
+print("Difference using -: ", A - B)
+# perform defference operation using difference()
+print("Difference using difference(): ", A.difference(B))
