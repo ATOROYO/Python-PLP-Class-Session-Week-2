@@ -19,3 +19,9 @@ empty_dictionary = {}
 
 print("Data type of empty _set: ", empty_set)
 print("Data type of empty_dictionary", empty_dictionary)
+
+# Add and Update in Python
+numbers = {21, 34, 54, 12}
+print("Initial Set: ", numbers)
+# using add() method
+print("Update set: ", numbers)
