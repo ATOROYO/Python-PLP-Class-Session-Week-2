@@ -13,4 +13,5 @@ print(message)
 
 # Accessing String
 greet = "Hello"
+# access the first index
 print(greet)
