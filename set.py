@@ -36,3 +36,10 @@ languages = {'Swift', 'Java', 'Python'}
 print("Initial Set: ", languages)
 # remove 'Java' from a set
 print("Set after remove(): ", languages)
+
+# / Built in function with set
+# Iterate Over a Set in Python
+fruits = {"Apple", "Peach", "Mango"}
+# for Loop to access each fruits
+for fruit in fruits:
+    print(fruit)
