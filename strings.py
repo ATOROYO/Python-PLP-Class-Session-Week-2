@@ -3,3 +3,6 @@ string1 = "Python programming"
 
 # Strings using single quote
 string1 = "Python programming"
+
+# Create a string type variables
+name = "Python"
