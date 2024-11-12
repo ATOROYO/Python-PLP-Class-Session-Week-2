@@ -73,3 +73,9 @@ print("Intersection using intersection(): " A.intersection(B))
 print("Difference using -: ", A - B)
 # perform defference operation using difference()
 print("Difference using difference(): ", A.difference(B))
+
+# set symmetric difference
+# perform defference operation using ^
+print("using ^: ", A ^ B)
+# perform defference operation using symmetric_difference()
+print("using symmetric_difference(): ", A.symmetric_difference(B))
