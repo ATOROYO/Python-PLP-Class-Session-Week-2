@@ -9,3 +9,13 @@ print("Vowels Letters: ", vowel_letters)
 # Create a set of mixed data type
 mixed_set = {'Hello', 101, -2, 'Bye'}
 print("Set of mixed data types: ", mixed_set)
+
+# / Create an empty Set in Python
+# Empty set
+empty_set = set()
+
+# Empty dictionary
+empty_dictionary = {}
+
+print("Data type of empty _set: ", empty_set)
+print("Data type of empty_dictionary", empty_dictionary)
