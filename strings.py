@@ -10,3 +10,6 @@ print(name)
 
 message = "I love python."
 print(message)
+
+# Accessing String
+greet = "Hello"
