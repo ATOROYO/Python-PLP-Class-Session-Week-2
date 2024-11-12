@@ -79,3 +79,10 @@ print("Difference using difference(): ", A.difference(B))
 print("using ^: ", A ^ B)
 # perform defference operation using symmetric_difference()
 print("using symmetric_difference(): ", A.symmetric_difference(B))
+
+# check if two sets are equal
+# perform difference operation using ==
+if A == B:
+    print("Set A and B are equal")
+else:
+    print("Set A and B are not equal")
