@@ -7,3 +7,6 @@ string1 = "Python programming"
 # Create a string type variables
 name = "Python"
 print(name)
+
+message = "I love python."
+print(message)
