@@ -52,3 +52,12 @@ print("Total Elements: ", len(even_numbers))
 # Output
 # Set: {8,2,4,6}
 # Total Elements: 4
+
+# / Python Set Operation
+# union of two sets
+A = {1, 3, 5}
+B = {0, 2, 4}
+# perform union operation using |
+print("Union using |: ", A | B)
+# perform union operation using union()
+print("Union usning union(): ", A.union(B))
