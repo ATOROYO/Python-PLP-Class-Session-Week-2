@@ -61,3 +61,9 @@ B = {0, 2, 4}
 print("Union using |: ", A | B)
 # perform union operation using union()
 print("Union usning union(): ", A.union(B))
+
+# set intersection
+# perform intersection operation using &
+print("Intersection using &: ", A & B)
+# perform intersection operation using intersection()
+print("Intersection using intersection(): " A.intersection(B))
