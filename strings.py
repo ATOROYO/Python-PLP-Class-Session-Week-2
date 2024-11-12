@@ -13,3 +13,4 @@ print(message)
 
 # Accessing String
 greet = "Hello"
+print(greet)
