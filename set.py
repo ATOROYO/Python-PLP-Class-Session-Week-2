@@ -30,3 +30,9 @@ print("Update set: ", numbers)
 companies = {'Lacoste', 'Ralph Lauren'}
 tech_companies = ['apple', 'google', 'apple']
 companies.update(tech_companies) # Output: {'google', 'apple', 'Lacoste', 'Ralph Lauren'}
+
+# / Remove an element from a list
+languages = {'Swift', 'Java', 'Python'}
+print("Initial Set: ", languages)
+# remove 'Java' from a set
+print("Set after remove(): ", languages)
