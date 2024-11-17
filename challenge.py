@@ -32,3 +32,19 @@ person_info["favorite_color"] = input("What is your favorite color? ")
 print("\nPerson's Information:")
 print(person_info)
 
+# QUESTION 4
+# Accept user input to create the first set
+set1_input = input("Enter the integers for the first set, separated by spaces: ")
+set1 = set(map(int, set1_input.split()))
+
+# Accept user input to create the second set
+set2_input = input("Enter the integers for the second set, separated by spaces: ")
+set2 = set(map(int, set2_input.split()))
+
+# Create a new set containing the common elements
+common_elements = set1 & set2
+
+# Print the result
+print("The common elements between both sets are:", common_elements)
+
+
