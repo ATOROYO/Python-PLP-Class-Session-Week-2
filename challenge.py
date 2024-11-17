@@ -19,3 +19,16 @@ favorite_books = ("The Great Gatsby", "1984", "To Kill a Mockingbird", "Pride an
 for book in favorite_books:
     print(book)
 
+# QUESTION 3
+# Create an empty dictionary to store the person's information
+person_info = {}
+
+# Ask the user for their name, age, and favorite color
+person_info["name"] = input("What is your name? ")
+person_info["age"] = input("How old are you? ")
+person_info["favorite_color"] = input("What is your favorite color? ")
+
+# Print the dictionary containing the person's information
+print("\nPerson's Information:")
+print(person_info)
+
