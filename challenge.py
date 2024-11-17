@@ -47,4 +47,14 @@ common_elements = set1 & set2
 # Print the result
 print("The common elements between both sets are:", common_elements)
 
+# QUESTION 5
+# Store a list of words
+words = ["apple", "banana", "cherry", "date", "kiwi", "orange", "melon"]
+
+# Use list comprehension to create a new list with words that have an odd number of characters
+odd_length_words = [word for word in words if len(word) % 2 != 0]
+
+# Print the result
+print("Words with an odd number of characters:", odd_length_words)
+
 
