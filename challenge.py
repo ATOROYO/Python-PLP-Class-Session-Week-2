@@ -55,6 +55,6 @@ words = ["apple", "banana", "cherry", "date", "kiwi", "orange", "melon"]
 odd_length_words = [word for word in words if len(word) % 2 != 0]
 
 # Print the result
-print("Words with an odd number of characters:", odd_length_words)
+# print("Words with an odd number of characters:", odd_length_words)
 
 
